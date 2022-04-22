@@ -16,6 +16,8 @@ I am also very good at REACT JS
 ![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=FaceBook&logoColor=blue)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-raj77x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Aditya-raj77x/Aditya-raj77x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
