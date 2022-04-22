@@ -1,5 +1,14 @@
 ### Hi there 👋
+### My Name is Aditya Raj
+I’m a developer 
 
+I Know Python, WordPress, JAVA ,C ,C++ ,HTML, javascript , CSS ,REACT , ANGULAR JS
+
+I build websites for small and medium sized businesses. I am a expert in Python
+
+programming and Machine Learning and Artificial Intelligence with Python.
+
+I am also very good at REACT JS
 <!--
 **Aditya-raj77x/Aditya-raj77x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
