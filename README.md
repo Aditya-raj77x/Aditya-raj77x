@@ -9,6 +9,8 @@ I build websites for small and medium sized businesses. I am a expert in Python
 programming and Machine Learning and Artificial Intelligence with Python.
 
 I am also very good at REACT JS
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-raj77x&theme=radical&show_icons=true)
 <!--
 **Aditya-raj77x/Aditya-raj77x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
