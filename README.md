@@ -1,35 +1,54 @@
-### Hi there 👋
-### My Name is Aditya Raj
+<h1 align="center">Hi there 👋, I'm Aditya Raj</h1>
+<h3 align="center">Versatile Developer | Mentor | Machine Learning Enthusiast</h3>
 
+<p align="center">
+  Welcome to my GitHub! I’m a developer with expertise in the MERN stack, Python, and machine learning. Over the past three years, I’ve built full-stack projects, freelanced, and developed creative skills in graphic design, video editing, and digital marketing. 
+</p>
 
-Hello, my name is Aditya Raj. I’m a versatile developer and mentor with expertise in MERN stack web development, Python, and machine learning—gained during my internship with Perfect eLearning and devtown etc. . Over the past three years, I’ve built and deployed full-stack projects, freelanced for businesses, and developed strong creative skills in graphic design, video editing, and digital marketing.
-Currently, I’m working as a mentor at an institute, helping students build their technical and problem-solving skills. You can explore my projects and code on my GitHub: github.com/Aditya-raj77x. My combination of technical expertise, creative skills, and teaching experience enables me to deliver innovative solutions and guide others in their learning journey
+---
 
+### 👨‍💻 About Me
 
+- 🔭 I’m currently working as a mentor at **Sanskar Technology Institute**, helping students build technical and problem-solving skills.
+- 🌱 I’m currently studying for my **O Level certification**.
+- 💼 My background includes internships with **Perfect eLearning** and **DevTown**.
+- 💡 I love combining technical expertise with creative design to deliver innovative solutions.
+- 📫 How to reach me: **[Add your email here]**
 
-I Know Python, WordPress, JAVA ,C ,C++ ,HTML, javascript , CSS ,REACT , ANGULAR JS
+---
 
+### 🛠️ Languages & Tools
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,wordpress,java,c,cpp,html,css,js,react,angular" alt="Aditya's Skills" />
+  </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-raj77x&theme=radical&show_icons=true)
+---
 
-![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)
-![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=FaceBook&logoColor=blue)
+### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-raj77x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-raj77x&theme=radical&show_icons=true&hide_border=true" alt="Aditya's GitHub stats" />
+  <br/>
+  <a href="https://github.com/Aditya-raj77x">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-raj77x&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
 
-<!--
-**Aditya-raj77x/Aditya-raj77x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="[YOUR_INSTAGRAM_LINK_HERE]" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink" alt="Instagram" />
+  </a>
+  <a href="https://github.com/Aditya-raj77x" target="_blank">
+    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
+  </a>
+  <a href="[YOUR_FACEBOOK_LINK_HERE]" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=FaceBook&logoColor=blue" alt="Facebook" />
+  </a>
+</p>
